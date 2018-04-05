@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<List>
+  <Item code = "MATERIAL_000" name ="불꽃의 열매" shape ="010/010/010" 
+        potion_codes="POTION_000/POTION_001/POTION_002/POTION_003" 
+        Lv ="0" price="10"></Item>
+  
+  <Item code = "MATERIAL_001" name ="광휘 꽃" shape ="011/010/010"
+        potion_codes="POTION_100/POTION_101/POTION_102/POTION_103" 
+        Lv ="1" price="20"></Item>
+
+  <Item code = "MATERIAL_002" name ="악마뿔 나무가지" shape ="101/010/010"
+        potion_codes="POTION_200/POTION_201/POTION_202/POTION_203"
+        Lv ="2" price="50"></Item>
+
+  <Item code = "MATERIAL_003" name ="황금 수은" shape ="000/101/101"
+        potion_codes="POTION_300/POTION_301/POTION_302/POTION_303"
+        Lv ="3" price="100"></Item>
+
+  <Item code = "MATERIAL_004" name ="서리 줄기" shape ="010/101/100"
+      potion_codes="POTION_400/POTION_401/POTION_402/POTION_403"
+      Lv ="4" price="210"></Item>
+  
+  <Item code = "MATERIAL_005" name ="용암 도마뱀" shape ="010/000/101" 
+        potion_codes="POTION_500/POTION_501/POTION_502/POTION_503" 
+        Lv ="5" price="500"></Item>
+  
+  <Item code = "MATERIAL_006" name ="솔니겔의 눈알" shape ="010/101/010" 
+        potion_codes="POTION_600/POTION_601/POTION_602" 
+        Lv ="6" price="960"></Item>
+  
+  <Item code = "MATERIAL_007" name ="죽음 방울 꽃" shape ="010/000/010"
+        potion_codes="POTION_700/POTION_701" 
+        Lv ="7" price="1200"></Item>
+  
+  <Item code = "MATERIAL_008" name ="알데모어의 심장" shape ="000/010/000" 
+        potion_codes="POTION_800" 
+        Lv ="8" price="100000"></Item>
+  
+</List>

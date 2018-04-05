@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<List>
+  <Scene code ="QUEST_000">
+    <Dialog character = "CHAR_001" imageSide ="right"> 잘했어. 이런 패턴으로 계속 진행 될거야. 어때? 첫 오픈의 소감이?
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left"> 실망이야...'라가시'에 왔다 해도 역시나 귀중한 재료를 구하기는 힘들군.
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="right"> 뭐야, 너 너무 일이 쉽게 풀리기를 바란거 아냐?
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">내가 착각한건 저 모험가들이 능력이야...
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">'라가시'정도의 위험지역의 모험가들은 좀 다를 줄 알았는데 \n\n저렇게 덜 떨어져서야...
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">아무래도 저들을 믿는건 비효율적일 것 같다.
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="right"> 무슨 소릴 하는거야? 그 너의 그 비리비리한 근육으로 몬스터 앞에라도 서겠다는 소리냐? \n\n 1초안에 목이 날아간다에 오늘 아침에 훔친 생선을 걸지.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">크크크 그럴리가. 그냥 물약에 조금의 장난을 쳐야겠어. 저들의 신체, 정신 능력을 극대화 시키자.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">저들의 수명은 좀 줄겠지만, 시간이 아까우니까 별 수 없지.
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="right">오호~ 좋은 생각인데? 해보자! 해보자! \n\n 물약을 팔아서 머저리들을 더 모으자!
+    </Dialog>
+  </Scene>
+
+
+  <Scene code ="QUEST_001">
+    <Dialog character = "CHAR_001" imageSide ="left">모험가들이 꽤 늘었네. 하긴 한번 맛보면 안 찾을 수가 없지. 안 그래?
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">맞아. 하지만 아직 멀었어.
+    </Dialog>
+    <Dialog character = "CHAR_100" imageSide ="left">똑똑똑... 계십니까?
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">누구시죠?
+    </Dialog>
+    <Dialog character = "CHAR_100" imageSide ="left">국가연금관리청에서 나왔습니다. 가게를 운영 하시면서 연금 판매 등록을 하지 않으셨더군요. 여기 청구 공문입니다.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">...
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">....
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">.....금액이 맞는 겁니까? 상당히 많군요?
+    </Dialog>
+    <Dialog character = "CHAR_100" imageSide ="left">이곳의 상권은 규모나 질적이나 다른 곳과 다릅니다. 그만한 가치를 하죠.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">...으음. 뭐 일단. 알겠습니다.
+    </Dialog>
+  </Scene>
+  
+
+  <Scene code ="QUEST_002">
+    <Dialog character = "CHAR_100" imageSide ="left">금액이 맞군요. 잘 수령 했습니다.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">안녕히 가시죠.
+    </Dialog>
+    <Dialog character = "CHAR_100" imageSide ="left">아, 혹시. 죽음 방울꽃에 대해 아십니까?
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">!!!!!!!!
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">뭐라 했습니까? 죽음 방울꽃?!
+    </Dialog>
+    <Dialog character = "CHAR_100" imageSide ="left">후후, 고대의 자료에만 등장하는 꽃이니 이런 반응이 올 줄 알았죠. 모험가 사이에서 그 꽃을 봤다는 소문이 있습니다.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">죽음 방울 꽃이라니...
+    </Dialog>
+    <Dialog character = "CHAR_100" imageSide ="left">네, 뭐 아직 그야말로 봤다는 것에 지나지 않지만요. 하지만 소문의 진원지인 곳 까지 가자면 험난한 과정을 거쳐야합니다. 최고의 모험가들도 쉽지 않아요.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">...그렇군요.
+    </Dialog>
+    <Dialog character = "CHAR_100" imageSide ="left">자, 그럼 저는 이만.
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="left">좋은 소식이군. 죽음 방울 꽃... 고대의 '부활 포션'의 주재료이지.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">모험가들이 거기에 닿을 능력이 안 된다니 동시에 아쉬운 소식이군.. 아무래도 약물을 죽지 않을 정도로 세게 만들어야겠어. 강화 물약을 더 개발 해야겠다.
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="left">너 정말 저질이구나?
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">뭐 칭찬으로 듣겠어.
+    </Dialog>
+  </Scene>
+
+
+  <Scene code ="QUEST_003">
+    <Dialog character = "CHAR_000" imageSide ="left">
+      자. 이걸 먹어봐.
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="right">
+      으윽... 잠깐, 아무래도 오전에 먹었던 포션이 뭔가 잘못 된 것 같아.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      뭐? 증상이 어떤데?!
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="right">
+      배가 칼로 포가 떠지는 것 같아.... 너무 아파....
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      그건 이미 알고 수정했어. 다른 증상은?
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="right">
+      아니... 죽을 것 같... 쿨럭.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      이봐, 이봐! ...죽었나? .....증상은 말해 주고 죽어야지.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      음. 귀찮군. 새로운 호문클루스를 만들어야되나.
+    </Dialog>
+    <Dialog character = "CHAR_900" imageSide ="left">
+      고양이에 달려있던 목걸이를 때낸 뒤 고양이를 들고 거대한 가마솥에 넣는다.
+      그리고 큰 상자 안에 고양이 목걸이를 던져 넣는다. 그 안에는 수많은 방울 목걸이가 있다.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      ...이번에도 고양이로 만들어야겠어. 재료값이 좀 많이 들겠는데?
+    </Dialog>
+  </Scene>
+
+
+  <Scene code ="QUEST_004">
+    <Dialog character = "CHAR_001" imageSide ="left">
+      야옹.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">
+      으음 또 실패인가? 인간의 말하지 않으면 소용없어. 다시 만들어야하나.
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="left">
+      너는? 무슨일인지?
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">
+      오오!! 성공했군! 나는 너의 주인이다. 내가 널 만들어냈으니 내 말만 잘 들으면 되.
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="left">
+      (고양이가 뭔가 이상한지 자신을 훝어본다)
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="left">
+      ...어?...
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="left">
+      아? 아...아악!!
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">
+      음? 역시 고양이의 몸은 불편하지? 그래도 인간이였을 때보다 좋은 점도 있을 거야. 아마도.
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="left">
+      으흐흑. 나에게 무슨 짓을 한거야..
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">
+      널 실험 생물체로 만든 거야. 걱정마렴. 얼마 안 있으면 너의 기억은 점점 지워져 없어질거야. 기억과 경험이 사라지니 다시 태어나는 샘이지.
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="left">
+      으아아아! 찟어 죽일 00야! 으아!
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">
+      (정체불명의 주사를 놓으며) 시끄럽네. 잠시 한숨 자라.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">
+      자 이제 실험체도 거의 다 만들었고 물약을 더 연구해봐야겠군.
+    </Dialog>
+  </Scene>
+
+
+  <Scene code ="QUEST_005">
+    <Dialog character = "CHAR_000" imageSide ="left">
+      어때? 느낌이?
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="right">
+      몸이 쌩쌩한데? 히힛.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      으음. 효과가 좋군. 하지만 이거 과다 복용하면 좀 위험 할 수도 있겠는데?
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="right">
+      뭐 어때. 어짜피 모험가들은 파리목숨인데 뭐.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      이 물약을 대량 생산하자. 최대한 많은 모험가들이 이 물약을 먹여야해.
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="left">
+      으음.. 그 ‘죽음 방울 꽃’인가 뭔가 하는 걸 얻기 위해서 인거야?
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      (잠시 눈을 감고 생각에 잠기는 듯한 연금술사. 이윽고 입가에 미소를 띄며 말을 잇는다.)
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">
+      ‘죽음의 방울 꽃’. 고대 서적의 자료에 의하면, 무한한 급속 재생력으로 모든 신체 장기를 갓 태어난 아이와 같이 만든다하더군.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      때문에 죽기 직전의 사람까지 살린다 해서 부활 물약이라고 불렀다고 해.
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="right">
+      오호~ 그거 흥미로운데? 근데 그 재료를 얻었다 해서 물약을 만들어 낼 수 있는건 아니잖아.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      너, 나를 뭘로 보는거야? 시간이 문제지 못할 건 없어.
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="right">
+      후후 너 재수 없는 놈이였구나? 어쨌든 이 물약을 빨리 팔아보자. 재밋게땅 ^^
+    </Dialog>
+  </Scene>
+
+
+  <Scene code ="QUEST_006">
+    <Dialog character = "CHAR_001" imageSide ="left">
+      이봐! ‘죽음의 방울 꽃’이 발견 되었데!
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">
+      후후후. 물약이 효과가 있었군.
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="left">
+      맞아. 좀 많이 죽어나가긴 했지만 우리의 물약을 먹은 녀석들이 급속도로 성장 했더군.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">
+      자, 어서... 어서 그 재료를 가지고 실험 해 보자.
+    </Dialog>
+    <Dialog character = "NONE" imageSide ="left">
+      그 이후 실험에 매진하는 연금술사와 고양이.
+      얼마 후...
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">
+      시제품이 만들어 졌군. 이걸 실험해 봐야하는데 말이야. 죽음을 앞둔 생명 말야.
+    </Dialog>
+    <Dialog character = "NONE" imageSide ="left">
+      말과 동시에 고양이를 보는 연금술사
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="left">
+      ?!!
+    </Dialog>
+    <Dialog character = "NONE" imageSide ="left">
+      고양이의 목을 꽉 움켜쥐는 연금술사.
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="left">
+      캭! 캬!!
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">
+      자아... 조금만 지나면 편안해 질거야.
+    </Dialog>
+    <Dialog character = "NONE" imageSide ="right">
+      이윽고 잠잠해진 고양이. 죽은 것을 확인한 연금술사는 이윽고 만든 물약을 먹인다.
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="left">
+      ... 
+    </Dialog>
+    <Dialog character = "NONE" imageSide ="right">
+      별다른 움직임이 없는 고양이
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">
+      아... 실패인가? 호문클루스를 또 만들자니 시간이 걸리고 어떻한다.
+    </Dialog>
+    <Dialog character = "NONE" imageSide ="right">
+      이때! 고양이가 움직인다.
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="left">
+      캭!!!
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">
+      오!!!!!!
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="left">
+      으으....
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">
+      어때? 어때??? 몸에서 느껴지는 변화를 사소한거라도 말해봐!!
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="left">
+      X새끼..
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">
+      어떠냐고!
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="left">
+      기분은 더러운데 몸이 가볍고 마치 부활... 그래 부활 한 것 같다.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">
+      크크크 드디어 해냈어!!!! 하하하!!!!
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">
+      자! 이제 학계에도 이 위대한 업적을 발표 해야겠군! 모든 이가 나를 우러러 볼 것이다!
+    </Dialog>
+    
+  </Scene>
+
+
+  <Scene code ="QUEST_007">
+    <Dialog character = "" imageSide ="left">
+      신문에 대서 특필 되어 있는 연금술사.
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="left">
+      정말 잘나가는 군.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">
+      잘 나간다라. 난 아직 부족하다. 그저 고대의 연금제조법을 재현한 것 뿐이야. 인류 누구도 생각지도 못한 신약을 개발해야해.
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="left">
+      욕심이 끝이 없구나.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">
+      당연하지. 욕심은 인간... 아니, 생물의 본연 그 자체다. 욕심에는 선과 악 따위 존재 하지 않아.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">
+      하다못해 미생물조차도 끝없는 욕심과 탐욕을 원동력으로 생존하기 마련이지.
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="left">
+      아, 네네.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">
+      수도에 연구소를 하나 건설 해야겠어. 몸이 하나보다는 여럿이 좋겠지. 연금술사들이야 내 밑으로 들어오기 위해 줄을 설 테고, 문제는 돈이야.
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="left">
+      이 기회에 많이 벌어 둬야겠군. 승냥이 같은 연금술사들이 부활포션 제조법을 카피하기 위해 달려들거야.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">
+      그래. 재료만 구비되면 반년이 안돼서 밝혀지겠지. 그동안 제대로 독과점을 누려야겠다.
+    </Dialog>
+  </Scene>
+
+
+  <Scene code ="QUEST_008">
+    <Dialog character = "CHAR_000" imageSide ="left">
+      이제 목표액까지 얼마 남지 않았어. (씨익) 수도에 대륙의 제일가는 연금술 연구소를 짓는 거야.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      나의 연구실에서 얻게 되는 성과는 나를 더욱 빛나게 하겠지. 그렇지? AKIS1253?
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="right">
+      (...)
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      으음? 왜 반응이 없지? 요새 죽을 만한 실험을 하지 않았는데?
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="right">
+      캬아앙!
+    </Dialog>
+    <Dialog character = "" imageSide ="right">
+      연금술사가 본 고양이는 자신이 알던 실험체가 아니였다. 눈이 튀어 나올 듯 하고 초점이 안맞았으며 입이 다물어지지 않는지 침을 연실 흘린다.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      무슨 일이지? 생각해보지 못한 문제가 발생한 것 같은데?
+    </Dialog>
+    <Dialog character = "" imageSide ="left">
+      말이 끝나기 무섭게 연금술사를 공격하는 고양이
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      ??!! 무...무슨?
+    </Dialog>
+    <Dialog character = "" imageSide ="left">
+      고양이의 발톱이 발톱이라고 하기에는 마치 면도칼처럼 길고 날카롭게 세워져 있었다.
+      반사적으로 피했으나 얼굴에 길게 자상을 입었다.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      흥미롭군. 무엇이 너를 그렇게 만든거지? 한번 연구를 해봐야... 응?
+    </Dialog>
+    <Dialog character = "" imageSide ="right">
+      연금술사가 말을 끝내기 전에 고양이가 연금술사의 왼쪽 가슴을 움켜쥐었다.
+      이윽고 가게 안을 붉게 칠하듯이 피가 솟아오르다 쏟아진다.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      크으으으. 이...이거 정말 죽겠는데... 아직 죽을 수는 없....없...어...
+    </Dialog>
+    <Dialog character = "" imageSide ="right">
+      서서히 의식을 잃어가는 연금술사. 눈에는 삶의 미련이 가득하다.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      끄..끅..
+    </Dialog>
+    <Dialog character = "" imageSide ="right">
+      밝아 온 아침. 눈을 뜬 연금술사.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      하아... 꿈이였나.
+    </Dialog>
+    <Dialog character = "" imageSide ="right">
+      침대에서 내려오려는 그는 가게 안이 검붉은 물감으로 장난을 친듯한 광경을 본다.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      이거는...
+    </Dialog>
+    <Dialog character = "" imageSide ="right">
+      그때 인기척이 들리더니 의자를 줄을 세워 자고있던 공무원이 일어난다.
+    </Dialog>
+    <Dialog character = "CHAR_100" imageSide ="right">
+      하아암. 일어나셨군요. 당신 큰일 날뻔 했습니다.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      ...무슨 일이 있었던건가요?
+    </Dialog>
+    <Dialog character = "CHAR_100" imageSide ="right">
+      글쎄요. 저는 영주의 자제분이 당신을 보고 싶어 한다는 말을 전하러 왔는데 누군가에게 습격을 받았는지 가슴이 뜯긴 채로 쓰러져 있더군요. 
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      꿈이 아니였나.
+    </Dialog>
+    <Dialog character = "CHAR_100" imageSide ="right">
+      바로 당신이 만든 부활 물약을 먹였습니다. 정말로 신기하게 성스러운 빛이 신체를 감싸더니 재생이 되더군요. 마치 신께서 하나하나 재조립하는 것 같이 말입니다.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      그래서 제가 되살아 난거군요. 감사합니다. 꼭 사례를 해드리겠습니다.
+    </Dialog>
+    <Dialog character = "CHAR_100" imageSide ="right">
+      아, 뭐. 대가를 바라고 한 것은 아닙니다만 주신다면 감사히 받겠습니다. 하하.
+    </Dialog>
+    <Dialog character = "CHAR_100" imageSide ="right">
+      전 그럼 이만. 그리고 영주님의 자제분을 만나는 걸로 알겠습니다.
+    </Dialog>
+    <Dialog character = "" imageSide ="right">
+      가게를 떠난 공무원. 가게를 돌아보던 연금술사는 기괴한 모습으로 죽어있는 고양이를 보고 혼란스러워한다.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      혹시.
+    </Dialog>
+    <Dialog character = "" imageSide ="right">
+      다급히 고대 서적을 찾는 연금술사. 종이를 찟을 듯이 넘기다 멈춘다.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      ‘죽음 방울 꽃. 신을 시기한 악마가 신의 권능을 흉내 낸 독극물이다. 이 꽃을 직접 섭취하면 짧은 시간동안 극도의 재생력 증가로 오히려 신체를 파괴하고 악마처럼 기이한 모습을 하게 된다.’
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      ‘제조에 따라 재생력을 낮춰 약으로 사용가능하나. 간간히 부작용으로 .’
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      ‘유일하게 해독할 수 있는 것은 악마 알데모어의 심장으로 또 다른 악마의 힘을 주입하여 이 둘을 싸우게 만드는 것이다. 다만, 균형을 맞추지 못하면......’ 이것이군. 이걸 구해야해. 알데모어의 심장.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      젠장, 내가 마시게 될거라고는 생각도 못했는데... 그래 아직 실험체에게 첫 부활물약 투약이 하고 꽤 오랜 시간 후에 후유증이 생겼으니 아직 시간이 있어.
+    </Dialog>
+
+  </Scene>
+  
+  
+  <Scene code ="QUEST_009">
+    <Dialog character = "CHAR_000" imageSide ="left">
+      재료를 구했으니 해독제를 만들어야해.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      빠르게 제조 하지 않으면 실패하니 빠르고 침착하게 해야 되. 
+    </Dialog>
+  </Scene>
+  
+  
+  <Scene code ="QUEST_010">
+    <Dialog character = "CHAR_000" imageSide ="left">
+      하하하. 첫 실험물약의 완성인건가? 이 물약이면 해독이 되겠지만. 가만 보자 임상 실험을 해야하는데...
+    </Dialog>
+    <Dialog character = "" imageSide ="left">
+      그때 왁지지껄한 소리가 밖에서 나더니 문이 박살나듯이 열린다.\n밖에서 집안으로 군인들이 쏟아져 들어온다.
+    </Dialog>
+    <Dialog character = "CHAR_101" imageSide ="right">
+      죄인. 특수 살인 및 왕국을 전복하려 시도한 죄로 즉결 처형에 처한다.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      무슨 일이요? 내가 무슨 죄를 저질렀다고?
+    </Dialog>
+    <Dialog character = "CHAR_101" imageSide ="right">
+      정말 네가 한 짓을 모른단 말인가? 왕국의 네가 판매한 물약으로 곳곳에서 괴물이 된 사람들이 문제를 일으켰지. 네가 조종하는 그 괴물들이 말이다!
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">
+      잠깐, 괴물들이라고? 그 녀석들을 만나 봅시다. 내가 그들을 원상태로 돌려 놓을 수 있는 약을 만들었소.
+    </Dialog>
+    <Dialog character = "CHAR_101" imageSide ="left">
+      아직도 정신을 못 차렸군. 거짓말을 늘어놓는 것이 죽음이 두렵나 보지? 이봐라 형을 집행하라!
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      잠깐!!! 내 말 좀 믿으라구!!! 다시 원래대로 돌려 놓을께!!!
+    </Dialog>
+    <Dialog character = "CHAR_101" imageSide ="left">
+      참수.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      잠깐!!!!!!!!
+    </Dialog>
+    <Dialog character = "" imageSide ="left">
+      서걱.
+    </Dialog>
+    <Dialog character = "" imageSide ="right">
+      내가 무엇을 잘못 한거지?
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="left">
+      어디서부터 잘못된 것일까.
+    </Dialog>
+  </Scene>
+  
+  
+  <Scene code ="QUEST_100">
+    <Dialog character = "CHAR_002" imageSide ="left">으음~ 다 쓰러져가는 집과 새 가구의 오묘한 냄새가 나는 물약 상점이로군. 어떤 맛인지 혀나 한번 적셔 볼까?
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">찾으시는 물건이 있습니까?
+    </Dialog>
+    <Dialog character = "CHAR_002" imageSide ="left">으음? 거기 밥 맛 없게 생긴 샌님이 주인? 연금술사들은 하나 같이 정신 나간 늙은이들 뿐 인줄 알았는데?
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">물건 살게 아니고 사람 찾는 거라면 다른 곳을 가시죠.
+    </Dialog>
+    <Dialog character = "CHAR_002" imageSide ="left">어익후~ 정색 하는거야? 크큭... 좋아. 좋아. 난 당신 같은 사람이 좋아.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">...
+    </Dialog>
+    <Dialog character = "CHAR_002" imageSide ="left">워워~ 그런 무서운 표정 하지 말라고 그 쪽이 바라는데로 용건을 말하려던 참이니까.
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">...
+    </Dialog>
+    <Dialog character = "CHAR_002" imageSide ="left">체력포션 10개 주문하도록하지. 부탁해~
+    </Dialog>
+  </Scene>
+</List>

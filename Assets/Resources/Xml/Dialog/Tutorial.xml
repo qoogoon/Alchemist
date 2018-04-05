@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<List>
+  <Scene code ="TUTORIAL_000">
+    <Dialog character = "CHAR_001" imageSide ="left">드디어 오늘 부터 개점을 하게 되었군. 좋은 날이야!
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">그래. 일단 서둘러서 판매할 물약을 만들어야겠어.
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="left">좋아, 하지만 그 전에 새로운 소식을 보자.
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="left">매일 하루를 시작 할때 마다 새소식이 전달이 되.\n\n이를 통해서 물약을 제조하는데에 있어서 중요한 정보를 알 수 있게 되지.
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="left">왼쪽 하단의 "부엉이"를 눌러서 새소식을 확인해보자.
+    </Dialog>
+  </Scene>
+  
+  <Scene code ="TUTORIAL_001">
+    <Dialog character = "CHAR_000" imageSide ="right">회복 물약을 많이 찾을 것이라는 소식이군.
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="left">좋았어! 그걸 만들어서 돈을 벌어야겠어!+ㅠ+
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="left">오른쪽 하단의 "연금술 테이블"을 눌러서 포션을 만들자.
+    </Dialog>
+  </Scene>
+
+  <Scene code ="TUTORIAL_002">
+    <Dialog character = "CHAR_001" imageSide ="left">물약을 만들기 위해서는 우선 주재료를 선택 해야해.
+    </Dialog>
+    <Dialog character = "CHAR_001" imageSide ="left">우선 "불꽃의 열매"는 여러 체력 회복 포션을 만드는 주재료가 되니 그걸 선택해볼까?
+    </Dialog>
+  </Scene>
+
+  <Scene code ="TUTORIAL_003">
+    <Dialog character = "CHAR_001" imageSide ="left">이제 선택한 "불꽃의 열매"를 이용해 회복 포션을 만들어보자.
+    </Dialog>
+  </Scene>
+
+  <Scene code ="TUTORIAL_004">
+    <Dialog character = "CHAR_001" imageSide ="left">포션은 몇가지의 재료들을 조합해서 생성이 되.\n\n자! 이번엔 오른쪽의 재료 블록들을 "끌어서" 왼쪽 조합판에 맞춰보자!
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">블록을 잘못 맞췄을 경우엔 어떻게 하지?
+    </Dialog>
+  </Scene>
+
+  <Scene code ="TUTORIAL_005">
+    <Dialog character = "CHAR_001" imageSide ="left">저 새로고침 버튼을 누르면 다시 시작 할 수 있어!
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">좋아. 그럼 블럭을 끌어서 조합판에 맞춰보자.
+    </Dialog>
+
+  </Scene>
+
+  <Scene code ="TUTORIAL_006">
+    <Dialog character = "CHAR_001" imageSide ="left">물약이 만들어졌군! 이제 물약을 팔아보자.
+    </Dialog>
+  </Scene>
+
+  <Scene code ="TUTORIAL_007">
+    <Dialog character = "CHAR_001" imageSide ="left">휴우~ 물약까지 다 만들었으니 손님을 맞을 준비를 모두 끝냈어.\n\n판매 할 물약 갯수를 확인 하고 상점을 열어 볼까?
+    </Dialog>
+  </Scene>
+</List>

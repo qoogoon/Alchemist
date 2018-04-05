@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<List>
+  <Item code = "ADVENTURER_DUMMY" name ="더미" job="전사" charCode ="CHAR_007"></Item>
+  <Item code = "ADVENTURER_000" name ="쿠메" job="전사" charCode ="CHAR_002"></Item>
+  <Item code = "ADVENTURER_001" name ="카지미" job="마법사" charCode ="CHAR_003"></Item>
+  <Item code = "ADVENTURER_002" name ="르카드" job="마검사" charCode ="CHAR_004"></Item>
+  <Item code = "ADVENTURER_003" name ="왕적일" job="권사" charCode ="CHAR_005"></Item>
+  <Item code = "ADVENTURER_004" name ="마이렌" job="랜서" charCode ="CHAR_006"></Item>
+  
+</List>

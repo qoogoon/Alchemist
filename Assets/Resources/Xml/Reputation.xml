@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<List>
+  <Item code = "REPUTATION_000" title ="알려지지 않은 연금술사" contents="우르크 내에 인지도 없는 연금술사" lv="1" condition_value="0"></Item>
+  <Item code = "REPUTATION_001" title ="마을에 알려진 연금술사" contents="우르크 지역 내에 조금은 알려진 연금술사" lv="2" condition_value="9"></Item>
+  <Item code = "REPUTATION_002" title ="인기 있는 연금술사" contents="인기짱짱" lv="3" condition_value="120"></Item>
+  <Item code = "REPUTATION_003" title ="명성 있는 연금술사" contents="명성 짱짱" lv="4" condition_value="10000"></Item>
+  <Item code = "REPUTATION_004" title ="최고 권위의 연금술사" contents="최고최고" lv="5" condition_value="100000"></Item>
+</List>

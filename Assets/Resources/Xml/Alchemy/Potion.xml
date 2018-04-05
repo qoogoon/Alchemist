@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<List>
+  <Item code = "POTION_000" name ="체력 회복 Lv1" 
+        formula ="00000/01010/01010/01110/00000;00000/00110/00110/01110/00000;00000/00000/01111/01110/00000" 
+        material="MATERIAL_000/MATERIAL_001" lv ="1" 
+        detial=" 기본적인 회복 포션. 모험가들 중 간혹 회복포션 금단현상을 토로하기도한다."  price="40"  type="0" adventure_success_bonus="2"></Item>
+  
+  <Item code = "POTION_001" name ="체력 회복 Lv2" formula ="00100/00100/01110/00100/00100;00000/01000/01100/01100/01010;00000/10000/01100/10111/00000" 
+        material="MATERIAL_000/MATERIAL_002" lv ="3" 
+        detial="" price="80"  type="0" adventure_success_bonus="25"></Item>
+  
+  <Item code = "POTION_002" name ="체력 회복 Lv3" formula ="00000/01000/01100/01100/00110" 
+        material="MATERIAL_000/MATERIAL_001/MATERIAL_003" lv ="5" 
+        detial="" price="20" type="0" adventure_success_bonus="50"></Item>
+  
+  <Item code = "POTION_003" name ="체력 회복 Lv4" formula ="00000/00100/01100/00110/00000" 
+        material="MATERIAL_000/MATERIAL_002/MATERIAL_004" lv ="4" 
+        detial="" price="20" type="0" adventure_success_bonus="75"></Item>
+  
+  
+  <Item code = "POTION_100" name ="마나 회복 Lv1" formula ="00000/11100/01110/00100/00100;00000/01111/00111/01000/00000;00000/00100/01111/01100/01000" 
+        material="MATERIAL_001/MATERIAL_002" lv ="2" 
+        detial="" price="90" type="1" adventure_success_bonus="2"></Item>
+  
+  <Item code = "POTION_101" name ="마나 회복 Lv2" formula ="00000/01000/01100/01100/00110" 
+        material="" lv ="10" 
+        detial="" price="20" type="1" adventure_success_bonus="25"></Item>
+  
+  <Item code = "POTION_102" name ="마나 회복 Lv3" formula ="00000/00100/01100/00110/00000" 
+        material="" lv ="10" 
+        detial="" price="20" type="1" adventure_success_bonus="50"></Item>
+  
+  <Item code = "POTION_103" name ="마나 회복 Lv4" formula ="00000/01000/01100/01110/00000" 
+        material="" lv ="10" 
+        detial="" price="20" type="1" adventure_success_bonus="75"></Item>
+  
+  
+  <Item code = "POTION_200" name ="독 Lv1" formula ="00000/01010/01110/01110/01110;00000/01110/01111/00111/01000;00100/00100/01110/00111/11100" 
+        material="MATERIAL_000/MATERIAL_001/MATERIAL_002" lv ="2" 
+        detial="" price="100" type="2" adventure_success_bonus="2"></Item>
+  
+  <Item code = "POTION_201" name ="독 Lv2" formula ="00000/00100/01100/00110/00000" 
+        material="" lv ="4" 
+        detial="" price="20" type="2" adventure_success_bonus="25"></Item>
+  
+  <Item code = "POTION_202" name ="독 Lv3" formula ="00000/01000/01100/01110/00000" 
+        material="MATERIAL_001/MATERIAL_002" lv ="5" 
+        detial="" price="20" type="2" adventure_success_bonus="50"></Item>
+  
+  <Item code = "POTION_203" name ="독 Lv4" formula ="00000/01000/01100/01100/00110" 
+        material="" lv ="6" 
+        detial="" price="20" type="2" adventure_success_bonus="75"></Item>
+
+
+  <Item code = "POTION_300" name ="민첩강화 Lv1" formula ="00000/00100/01100/00110/00000"
+        material="" lv ="3"
+        detial="" price="20" type="3" adventure_success_bonus="2"></Item>
+
+  <Item code = "POTION_301" name ="민첩강화 Lv2" formula ="00000/01000/01100/01110/00000"
+        material="" lv ="5"
+        detial="" price="20" type="3" adventure_success_bonus="25"></Item>
+
+  <Item code = "POTION_302" name ="민첩강화 Lv3" formula ="00000/01000/01100/01100/00110"
+        material="" lv ="6"
+        detial="" price="20" type="3" adventure_success_bonus="50"></Item>
+
+  <Item code = "POTION_303" name ="민첩강화 Lv4" formula ="00000/00100/01100/00110/00000"
+        material="" lv ="7"
+        detial="" price="20" type="3" adventure_success_bonus="75"></Item>
+
+
+
+  <Item code = "POTION_400" name ="냉기저항 Lv1" formula ="00000/00100/01100/00110/00000"
+      material="" lv ="4"
+      detial="" price="20" type="3" adventure_success_bonus="2"></Item>
+
+  <Item code = "POTION_401" name ="냉기저항 Lv2" formula ="00000/01000/01100/01110/00000"
+        material="" lv ="6"
+        detial="" price="20" type="3" adventure_success_bonus="25"></Item>
+
+  <Item code = "POTION_402" name ="냉기저항 Lv3" formula ="00000/01000/01100/01100/00110"
+        material="" lv ="7"
+        detial="" price="20" type="3" adventure_success_bonus="50"></Item>
+
+  <Item code = "POTION_403" name ="냉기저항 Lv4" formula ="00000/00100/01100/00110/00000"
+        material="" lv ="8"
+        detial="" price="20" type="3" adventure_success_bonus="75"></Item>
+
+
+  <Item code = "POTION_500" name ="화염저항 Lv1" formula ="00000/00100/01100/00110/00000"
+      material="" lv ="5"
+      detial="" price="20" type="3" adventure_success_bonus="2"></Item>
+
+  <Item code = "POTION_501" name ="화염저항 Lv2" formula ="00000/01000/01100/01110/00000"
+        material="" lv ="7"
+        detial="" price="20" type="3" adventure_success_bonus="25"></Item>
+
+  <Item code = "POTION_502" name ="화염저항 Lv3" formula ="00000/01000/01100/01100/00110"
+        material="" lv ="8"
+        detial="" price="20" type="3" adventure_success_bonus="50"></Item>
+
+  <Item code = "POTION_503" name ="화염저항 Lv4" formula ="00000/00100/01100/00110/00000"
+        material="" lv ="8"
+        detial="" price="20" type="3" adventure_success_bonus="75"></Item>
+
+
+
+  <Item code = "POTION_600" name ="재생력강화 Lv1" formula ="00000/00100/01100/00110/00000"
+      material="" lv ="6"
+      detial="" price="20" type="3" adventure_success_bonus="2"></Item>
+
+  <Item code = "POTION_601" name ="재생력강화 Lv2" formula ="00000/01000/01100/01110/00000"
+        material="" lv ="7"
+        detial="" price="20" type="3" adventure_success_bonus="25"></Item>
+
+  <Item code = "POTION_602" name ="재생력강화 Lv3" formula ="00000/01000/01100/01100/00110"
+        material="" lv ="8"
+        detial="" price="20" type="3" adventure_success_bonus="50"></Item>
+
+
+
+  <Item code = "POTION_700" name ="공포저항 Lv1" formula ="00000/00100/01100/00110/00000"
+      material="" lv ="7"
+      detial="" price="20" type="3" adventure_success_bonus="2"></Item>
+
+  <Item code = "POTION_701" name ="공포저항 Lv2" formula ="00000/01000/01100/01110/00000"
+        material="" lv ="8"
+        detial="" price="20" type="3" adventure_success_bonus="25"></Item>
+
+  
+
+  <Item code = "POTION_800" name ="부활 Lv1" formula ="00000/00100/01100/00110/00000"
+      material="" lv ="8"
+      detial="" price="20" type="3" adventure_success_bonus="2"></Item>
+
+</List>

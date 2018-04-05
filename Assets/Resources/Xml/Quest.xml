@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<List>
+  <!--main-->
+  <Item code = "QUEST_000" 
+        title ="지역 내에 이름 알리기" 
+        contents="학계에서는 나름 이름있는 연금술사이지만 대중적으로는 알려지지 않아있다. 이 지역 내의 연금술 재료 연구를 위해서라도 모험가들 사이에 입소문을 내야할것같다." 
+        charCode="CHAR_000" no ="1" type="평판" targetCode ="REPUTATION" compliteValue ="9" unlockLv ="1" 
+        rewardCodes = "POTION#MATERIAL" rewardValues ="2#2"></Item>
+  
+  <Item code = "QUEST_001" 
+        title ="석연치 않은 세금" 
+        contents="연금 판매 등록세를 지불해야한다. 자릿세나 다름 없는 세금으로 중앙 권력에 미치지 않는 지역인지라 영주가 곧 왕이나 다름 없다." 
+        charCode="CHAR_000" no ="2" type="골드" targetCode ="GOLD" compliteValue ="2000" unlockLv ="2" 
+        rewardCodes ="REPUTATION#GOLD" rewardValues="150#100"></Item>
+
+  <Item code = "QUEST_002"
+        title ="금단의 재료"
+        contents="---"
+        charCode="CHAR_000" no ="3" type="물약" targetCode ="POTION_200" compliteValue ="15" unlockLv ="3" 
+        rewardCodes ="POTION#MATERIAL#GOLD" rewardValues="3#3#500"></Item>
+
+  <!--npc1-->
+  <Item code = "QUEST_100" title ="만남"
+        contents="크큭.. 재밋는 친구로군. 왠지 네 녀석과 거래를 틀고 싶어졌어.\n체력 포션1Lv 10개 주문할게."
+        charCode="CHAR_002" no ="1" type="물약" targetCode ="POTION_000" compliteValue ="10" unlockLv ="1" rewardCodes ="REPUTATION#GOLD" rewardValues="10#400"></Item>
+</List> 

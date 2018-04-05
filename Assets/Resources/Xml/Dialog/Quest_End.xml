@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<List>
+  <Scene code ="QUEST_000">
+    <Dialog character = "CHAR_001" imageSide ="left">
+      ㅇㅅㅇ
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">
+      ㅇㅂㅇ
+    </Dialog>
+    
+  </Scene>
+
+  <Scene code ="QUEST_100">
+    <Dialog character = "CHAR_001" imageSide ="left">
+      ㅇㅅㅇ앗! 살려주셔서 ㄳㄳ
+    </Dialog>
+    <Dialog character = "CHAR_000" imageSide ="right">
+      ㅇㅂㅇ이힛!
+    </Dialog>
+
+  </Scene>
+</List>

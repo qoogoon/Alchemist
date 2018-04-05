@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<List>
+  <News code = "News_000" type ="환경" effect="수요" value="200" target_code ="POTION_000">회복물약 수요 급증
+    <Detail>[마을 소식]\n 몬스터들이 피의 축제로 인해 광분된 상태입니다. 이에 따라 모험가들이 회복물약의 수요가 급증 하였습니다.\n(회복 물약 수요 200%)</Detail>
+  </News>
+  <News code = "News_001" type ="환경" effect="수요" value="200" target_code ="POTION_100">마나물약 수요 급증
+    <Detail>
+      후후
+    </Detail>
+  </News>
+  <News code = "News_002" type ="환경" effect="수요" value="200" target_code ="POTION_200">독포션 수요 급증
+    <Detail>
+      후후
+    </Detail>
+  </News>
+  <News code = "News_003" type ="환경" effect="수요" value="200" target_code ="POTION_300">민첩강화포션 수요 급증
+    <Detail>
+      후후
+    </Detail>
+  </News>
+  <News code = "News_004" type ="환경" effect="수요" value="200" target_code ="POTION_400">냉기저항포션 수요 급증
+    <Detail>
+      후후
+    </Detail>
+  </News>
+    <News code = "News_004" type ="환경" effect="수요" value="200" target_code ="POTION_500">화염저항포션 수요 급증
+    <Detail>
+      후후
+    </Detail>
+  </News>
+    <News code = "News_004" type ="환경" effect="수요" value="200" target_code ="POTION_600">재생력강화포션 수요 급증
+    <Detail>
+      후후
+    </Detail>
+  </News>
+    <News code = "News_004" type ="환경" effect="수요" value="200" target_code ="POTION_700">공포저항포션 수요 급증
+    <Detail>
+      후후
+    </Detail>
+  </News>
+      <News code = "News_004" type ="환경" effect="수요" value="200" target_code ="POTION_800">부활포션 수요 급증
+    <Detail>
+      후후
+    </Detail>
+  </News>
+  
+  
+  
+
+  <News code = "News_100" type ="모험가" effect="호감도" value="2" target_code ="ADVENTURER_000">쿠메의 호감도 증가
+    <Detail> 모험가 '쿠메'가 던전 공략을 성공적으로 마쳤습니다.\n 당신의 물약의 효과가 있었던 것 같습니다. 위기의 상황에서 물약이 제대로 효과를 발휘 하였습니다.\n\n(호감도가 높을 수록 상점을 찾을 확률이 올라갑니다.)</Detail>
+  </News>
+
+  <News code = "News_101" type ="모험가" effect="호감도" value="2" target_code ="ADVENTURER_001">카지미의 호감도 증가
+    <Detail> 모험가 '카지미'가 던전 공략을 성공적으로 마쳤습니다.\n 당신의 물약의 효과가 있었던 것 같습니다. 위기의 상황에서 물약이 제대로 효과를 발휘 하였습니다.\n\n(호감도가 높을 수록 상점을 찾을 확률이 올라갑니다.)</Detail>
+  </News>
+
+  <News code = "News_102" type ="모험가" effect="호감도" value="2" target_code ="ADVENTURER_002">르카드의 호감도 증가
+    <Detail> 모험가 '르카드'가 던전 공략을 성공적으로 마쳤습니다.\n 당신의 물약의 효과가 있었던 것 같습니다. 위기의 상황에서 물약이 제대로 효과를 발휘 하였습니다.\n\n(호감도가 높을 수록 상점을 찾을 확률이 올라갑니다.)</Detail>
+  </News>
+
+  <News code = "News_103" type ="모험가" effect="호감도" value="2" target_code ="ADVENTURER_003">왕적일의 호감도 증가
+    <Detail> 모험가 '왕적일'가 던전 공략을 성공적으로 마쳤습니다.\n 당신의 물약의 효과가 있었던 것 같습니다. 위기의 상황에서 물약이 제대로 효과를 발휘 하였습니다.\n\n(호감도가 높을 수록 상점을 찾을 확률이 올라갑니다.)</Detail>
+  </News>
+
+  <News code = "News_104" type ="모험가" effect="호감도" value="2" target_code ="ADVENTURER_004">마이렌의 호감도 증가
+    <Detail> 모험가 '마이렌'가 던전 공략을 성공적으로 마쳤습니다.\n 당신의 물약의 효과가 있었던 것 같습니다. 위기의 상황에서 물약이 제대로 효과를 발휘 하였습니다.\n\n(호감도가 높을 수록 상점을 찾을 확률이 올라갑니다.)</Detail>
+  </News>
+  
+  
+  
+  
+
+  <News code = "News_007" type ="모험가" effect="호감도" value="-1" target_code ="ADVENTURER_000">쿠메의 호감도 감소
+    <Detail> 모험가 '쿠메'가 던전 공략에 실패 하였습니다.\n 당신의 물약의 효과가 미미하였습니다. 위기의 상황에서 물약이 효과가 없었습니다...\n\n(호감도가 높을 수록 상점을 찾을 확률이 올라갑니다.)</Detail>
+  </News>
+
+  <News code = "News_008" type ="모험가" effect="호감도" value="-1" target_code ="ADVENTURER_001">카지미의 호감도 감소
+    <Detail> 모험가 '카지미'가 던전 공략에 실패 하였습니다.\n 당신의 물약의 효과가 미미하였습니다. 위기의 상황에서 물약이 효과가 없었습니다...\n\n(호감도가 높을 수록 상점을 찾을 확률이 올라갑니다.)</Detail>
+  </News>
+
+  <News code = "News_009" type ="모험가" effect="호감도" value="-1" target_code ="ADVENTURER_002">르카드의 호감도 감소
+    <Detail> 모험가 '르카드'가 던전 공략에 실패 하였습니다.\n 당신의 물약의 효과가 미미하였습니다. 위기의 상황에서 물약이 효과가 없었습니다...\n\n(호감도가 높을 수록 상점을 찾을 확률이 올라갑니다.)</Detail>
+  </News>
+
+  <News code = "News_010" type ="모험가" effect="호감도" value="-1" target_code ="ADVENTURER_003">왕적일의 호감도 감소
+    <Detail> 모험가 '왕적일'가 던전 공략에 실패 하였습니다.\n 당신의 물약의 효과가 미미하였습니다. 위기의 상황에서 물약이 효과가 없었습니다...\n\n(호감도가 높을 수록 상점을 찾을 확률이 올라갑니다.)</Detail>
+  </News>
+  
+  <News code = "News_011" type ="모험가" effect="호감도" value="-1" target_code ="ADVENTURER_004">마이렌의 호감도 감소
+    <Detail> 모험가 '마이렌'가 던전 공략에 실패 하였습니다.\n 당신의 물약의 효과가 미미하였습니다. 위기의 상황에서 물약이 효과가 없었습니다...\n\n(호감도가 높을 수록 상점을 찾을 확률이 올라갑니다.)</Detail>
+  </News>
+  
+  
+  
+  
+  
+  <News code = "News_012" type ="모험가" effect="레벨" value="1" target_code ="ADVENTURER_000">쿠메의 레벨 증가
+    <Detail> 모험가 '쿠메'의 레벨이 Lv%d으로 증가 하였습니다.\n\n(숙련된 모험가가 상점을 찾을 수록 평판이 더 증가 합니다.)</Detail>
+  </News>
+
+  <News code = "News_013" type ="모험가" effect="레벨" value="1" target_code ="ADVENTURER_001">카지미의 레벨 증가
+    <Detail> 모험가 '카지미'의 레벨이 Lv%d으로 증가 하였습니다.\n\n(숙련된 모험가가 상점을 찾을 수록 평판이 더 증가 합니다.)</Detail>
+  </News>
+
+  <News code = "News_014" type ="모험가" effect="레벨" value="1" target_code ="ADVENTURER_002">르카드의 레벨 증가
+    <Detail> 모험가 '르카드'의 레벨이 Lv%d으로 증가 하였습니다.\n\n(숙련된 모험가가 상점을 찾을 수록 평판이 더 증가 합니다.)</Detail>
+  </News>
+
+  <News code = "News_015" type ="모험가" effect="레벨" value="1" target_code ="ADVENTURER_003">왕적일의 레벨 증가
+    <Detail> 모험가 '왕적일'의 레벨이 Lv%d으로 증가 하였습니다.\n\n(숙련된 모험가가 상점을 찾을 수록 평판이 더 증가 합니다.)</Detail>
+  </News>
+
+  <News code = "News_016" type ="모험가" effect="레벨" value="1" target_code ="ADVENTURER_004">마이렌의 레벨 증가
+    <Detail> 모험가 '마이렌'의 레벨이 Lv%d으로 증가 하였습니다.\n\n(숙련된 모험가가 상점을 찾을 수록 평판이 더 증가 합니다.)</Detail>
+  </News>
+
+  
+</List>

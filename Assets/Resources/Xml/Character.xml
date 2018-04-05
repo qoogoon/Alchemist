@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<List>
+  <Item code = "CHAR_000" name = "연금술사" ></Item>
+  <Item code = "CHAR_001" name = "고양이" ></Item>
+  <Item code = "CHAR_002" name = "쿠메" ></Item>
+  <Item code = "CHAR_003" name = "카지미"></Item>
+  <Item code = "CHAR_004" name = "르카드"></Item>
+  <Item code = "CHAR_005" name = "왕적일"></Item>
+  <Item code = "CHAR_006" name = "마이렌"></Item>
+  
+</List>

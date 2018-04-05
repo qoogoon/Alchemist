@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<List>
+  <Item code = "MATERIAL_000" name ="불꽃의 열매" shape ="010/010/010" 
+        potion_codes="POTION_000/POTION_001/POTION_002/POTION_003" Lv ="0" price="20"></Item>
+  
+  <Item code = "MATERIAL_001" name ="광휘 꽃" shape ="011/010/010"
+        potion_codes="POTION_004/POTION_005/POTION_006/POTION_007" Lv ="1" price="20"></Item>
+        
+  <Item code = "MATERIAL_002" name ="황금수은" shape ="000/110/110"
+        potion_codes="POTION_008/POTION_009/POTION_010/POTION_011" Lv ="2" price="20"></Item>
+  
+  <Item code = "MATERIAL_003" name ="MATERIAL_003" shape ="000/011/011"
+        potion_codes="POTION_012/POTION_013/POTION_014" Lv ="3" price="20"></Item>
+  
+  <Item code = "MATERIAL_004" name ="MATERIAL_004" shape ="000/011/011" 
+        potion_codes="" Lv ="4" price="20"></Item>
+  
+  <Item code = "MATERIAL_005" name ="MATERIAL_005" shape ="000/011/011" potion_codes="" Lv ="5" price="20"></Item>
+  <Item code = "MATERIAL_006" name ="MATERIAL_006" shape ="000/011/011" potion_codes="" Lv ="6" price="20"></Item>
+  <Item code = "MATERIAL_007" name ="MATERIAL_007" shape ="000/011/011" potion_codes="" Lv ="7" price="20"></Item>
+  <Item code = "MATERIAL_008" name ="MATERIAL_008" shape ="000/011/011" potion_codes="" Lv ="8" price="20"></Item>
+  <Item code = "MATERIAL_009" name ="MATERIAL_009" shape ="000/011/011" potion_codes="" Lv ="9" price="20"></Item>
+  <Item code = "MATERIAL_010" name ="MATERIAL_010" shape ="000/011/011" potion_codes="" Lv ="10" price="20"></Item>
+  <Item code = "MATERIAL_011" name ="MATERIAL_011" shape ="000/011/011" potion_codes="" Lv ="11" price="20"></Item>
+  <Item code = "MATERIAL_012" name ="MATERIAL_012" shape ="000/011/011" potion_codes="" Lv ="12" price="20"></Item>
+  <Item code = "MATERIAL_013" name ="MATERIAL_013" shape ="000/011/011" potion_codes="" Lv ="13" price="20"></Item>
+  <Item code = "MATERIAL_014" name ="MATERIAL_014" shape ="000/011/011" potion_codes="" Lv ="14" price="20"></Item>
+  <Item code = "MATERIAL_015" name ="MATERIAL_015" shape ="000/011/011" potion_codes="" Lv ="15" price="20"></Item>
+</List>
